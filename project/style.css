@@ -1,0 +1,52 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+body {
+    background-color:#f6ebda;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 450;
+    font-size: 18px;
+}
+
+header {
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 150px;
+    height: 30px;
+}
+
+ul {
+    align-items: center;
+}
+
+.color {
+    color: #FF902B;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color1 {
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color2 {
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+ 
+
+
+
+
+
+ /* body {
+     background-color:#f6ebda;
+  }
+
+ .container {
+    margin: 30px 135px
+ } */
